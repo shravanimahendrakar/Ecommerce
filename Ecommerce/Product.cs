@@ -8,7 +8,7 @@ namespace Ecommerce
 {
     internal class Product
     {
-        //Attributes with its setter and getter
+        //Attributes with its setter and getter  
         public int ProductID { get; set; }
         public string ProductName { get; set; }
         public double Price { get; set; }
