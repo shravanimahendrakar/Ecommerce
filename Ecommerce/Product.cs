@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ecommerce
 {
-    internal class Product
+    public class Product
     {
         //Attributes with its setter and getter  
         public int ProductID { get; set; }
